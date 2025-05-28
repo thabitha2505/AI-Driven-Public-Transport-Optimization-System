@@ -24,7 +24,7 @@ This AI system aims to reduce bus overcrowding and underutilization by forecasti
 - **Models**:
   - LSTM – Passenger demand predictor
   - DQN – RL scheduler for dynamic frequency control
-- **Deployment**: Hosted using Streamlit Sharing / Render / Local server
+- **Deployment**: Hosted using Streamlit
 
 ## 📊 Sample Output
 
